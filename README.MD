@@ -13,12 +13,6 @@
 
 </p>
 
-<p align="center">
-    <a href="https://space.bilibili.com/1655518235">
-        <img alt="bilibili" src="https://img.shields.io/badge/bilibili-shan__luan-pink">
-    </a>
-</p>
-
 En | [简体中文](README-zh_cn.MD)
 
 # What's this
