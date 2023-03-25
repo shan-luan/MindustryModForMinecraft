@@ -1,7 +1,20 @@
 # Mindustry mod for Minecraft
+
+<p align="center">
+    <a href="https://opensource.org/license/mit/">
+        <img alt="license" src="https://img.shields.io/badge/license-MIT-blue">
+    </a>
+    <a href="https://github.com/shan-luan/MindustryModForMinecraft">
+        <img alt="Github stars" src="https://img.shields.io/github/stars/shan-luan/MindustryModForMinecraft?color=blue">
+    </a>
+    <a href="https://github.com/shan-luan/MindustryModForMinecraft">
+        <img alt="Github issues" src="https://img.shields.io/github/issues/shan-luan/MindustryModForMinecraft?color=blue">
+    </a>
+
+</p>
+
 En | [简体中文](README-zh_cn.MD)
 
-⚠️This mod is still under development⚠️
 # What's this
 This Minecraft mod is about game [Mindustry](https://github.com/Anuken/Mindustry)'s mod
 
@@ -39,3 +52,11 @@ duo
 conveyors
 
 ![all_items](README_photos/all_items.png)
+
+# About
+
+Github: https://github.com/shan-luan/MindustryModForMinecraft
+
+Bilibili: https://space.bilibili.com/1655518235
+
+Issues: https://github.com/shan-luan/MindustryModForMinecraft/issues
