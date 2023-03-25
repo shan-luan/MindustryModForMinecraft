@@ -1,8 +1,26 @@
 # Mindustry mod for Minecraft
 
+<p align="center">
+    <a href="https://opensource.org/license/mit/">
+        <img alt="license" src="https://img.shields.io/badge/license-MIT-blue">
+    </a>
+    <a href="https://github.com/shan-luan/MindustryModForMinecraft">
+        <img alt="Github stars" src="https://img.shields.io/github/stars/shan-luan/MindustryModForMinecraft?color=blue">
+    </a>
+    <a href="https://github.com/shan-luan/MindustryModForMinecraft">
+        <img alt="Github issues" src="https://img.shields.io/github/issues/shan-luan/MindustryModForMinecraft?color=blue">
+    </a>
+
+</p>
+
+<p align="center">
+    <a href="https://space.bilibili.com/1655518235">
+        <img alt="bilibili" src="https://img.shields.io/badge/bilibili-shan__luan-pink">
+    </a>
+</p>
+
 [En](README.MD) | 简体中文
 
-⚠️此模组正处在开发状态⚠️
 
 # 这是什么
 
@@ -42,3 +60,11 @@
 传送带
 
 ![all_items](README_photos/all_items.png)
+
+# 关于
+
+Github: https://github.com/shan-luan/MindustryModForMinecraft
+
+Bilibili: https://space.bilibili.com/1655518235
+
+Issues: https://github.com/shan-luan/MindustryModForMinecraft/issues
